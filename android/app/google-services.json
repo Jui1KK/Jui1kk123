@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "442089263032",
+    "firebase_url": "https://rmutt-secb-default-rtdb.firebaseio.com",
+    "project_id": "rmutt-secb",
+    "storage_bucket": "rmutt-secb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442089263032:android:58961d45cef678ea40494d",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_siwat_secb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SDb2jz6xQ6VhC6ciiSYgaJDbSvome7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
